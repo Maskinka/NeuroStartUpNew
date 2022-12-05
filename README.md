@@ -1,3 +1,11 @@
+# Домашнее задание к лекции «История и работа с ветками»
+## Задача №1 - Создание веток
+https://github.com/netology-code/git-homeworks/tree/new-hw/branch
+
+
+
+
+
 ![Logo](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:
